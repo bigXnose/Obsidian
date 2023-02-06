@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f80eb5d22ef27f51",
+        "id": "4dadb15bbac9115d",
         "type": "tabs",
         "children": [
           {
-            "id": "687526dbbf36ba38",
+            "id": "efddde7754dc3369",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "15ea6b7a22bf51cc",
+  "active": "a6346d800d95e39d",
   "lastOpenFiles": [
     "Immediate Goals.md",
     "Builds.md",

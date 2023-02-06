@@ -11,8 +11,12 @@
             "id": "8160bff96f37137d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ongoing Note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ongoing Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ongoing Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ongoing Note.md"
+              }
             }
           },
           {
@@ -168,7 +175,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "15ea6b7a22bf51cc",
+  "active": "8160bff96f37137d",
   "lastOpenFiles": [
     "Immediate Goals.md",
     "Builds.md",

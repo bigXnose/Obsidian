@@ -14,30 +14,6 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3d970d476b2948cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4322f0f2f3def68e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2577298654c43dea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -191,7 +167,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8160bff96f37137d",
+  "active": "a6346d800d95e39d",
   "lastOpenFiles": [
     "Immediate Goals.md",
     "Builds.md",

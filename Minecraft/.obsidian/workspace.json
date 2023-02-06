@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a49dd09c2c9692d5",
+        "id": "7cf02c876c7bbd7e",
         "type": "tabs",
         "children": [
           {
-            "id": "8160bff96f37137d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d970d476b2948cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4322f0f2f3def68e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2577298654c43dea",
+            "id": "36f204aa327ae91e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15ea6b7a22bf51cc",
+  "active": "a6346d800d95e39d",
   "lastOpenFiles": [
     "Immediate Goals.md",
     "Builds.md",
