@@ -11,48 +11,32 @@
             "id": "8160bff96f37137d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immediate Goals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "3d970d476b2948cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Farms.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "4322f0f2f3def68e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Builds.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "2577298654c43dea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -129,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immediate Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immediate Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Immediate Goals.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,9 +193,9 @@
   },
   "active": "8160bff96f37137d",
   "lastOpenFiles": [
+    "Immediate Goals.md",
     "Builds.md",
     "Goals.md",
-    "Farms.md",
-    "Immediate Goals.md"
+    "Farms.md"
   ]
 }
