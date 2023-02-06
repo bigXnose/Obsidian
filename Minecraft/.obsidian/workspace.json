@@ -11,8 +11,12 @@
             "id": "36f204aa327ae91e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immediate Goals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immediate Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immediate Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Immediate Goals.md"
+              }
             }
           },
           {
@@ -167,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6346d800d95e39d",
+  "active": "36f204aa327ae91e",
   "lastOpenFiles": [
     "Immediate Goals.md",
     "Builds.md",
