@@ -103,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -202,10 +202,11 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "a7fec1a67544d3f9",
+  "active": "15ea6b7a22bf51cc",
   "lastOpenFiles": [
     "Enchantments.md",
     "Immediate Goals.md",
