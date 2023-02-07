@@ -15,7 +15,7 @@
               "state": {
                 "file": "Immediate Goals.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -28,6 +28,24 @@
                 "file": "Enchantments.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d3f0694e1fca5d48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7fec1a67544d3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immediate Goals.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -187,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36f204aa327ae91e",
+  "active": "a7fec1a67544d3f9",
   "lastOpenFiles": [
     "Enchantments.md",
     "Immediate Goals.md",
