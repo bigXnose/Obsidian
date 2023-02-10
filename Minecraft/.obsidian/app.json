@@ -1,3 +1,6 @@
 {
-  "spellcheck": true
+  "spellcheck": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "Assets",
+  "strictLineBreaks": true
 }

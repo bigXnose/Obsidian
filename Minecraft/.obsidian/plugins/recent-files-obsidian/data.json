@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Enchantments",
-      "path": "Enchantments.md"
+      "basename": "Goals",
+      "path": "Goals.md"
     },
     {
-      "basename": "Immediate Goals",
-      "path": "Immediate Goals.md"
+      "basename": "Mainland Goals",
+      "path": "Mainland Goals.md"
+    },
+    {
+      "basename": "Potential Builds",
+      "path": "Builds/Potential Builds.md"
+    },
+    {
+      "basename": "Farland Goals",
+      "path": "Farland Goals.md"
+    },
+    {
+      "basename": "Enchantments",
+      "path": "Reference/Enchantments.md"
     }
   ],
   "omittedPaths": [],
